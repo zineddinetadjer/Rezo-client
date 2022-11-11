@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rezo-client/static/css/main.cd3dc948.css",
+    "main.js": "/Rezo-client/static/js/main.e1890399.js",
+    "static/media/profileImg.jpg": "/Rezo-client/static/media/profileImg.e857f45860a47d11abdd.jpg",
+    "static/media/14.png": "/Rezo-client/static/media/14.d38cc72b23cfa8122eb0.png",
+    "index.html": "/Rezo-client/index.html",
+    "main.cd3dc948.css.map": "/Rezo-client/static/css/main.cd3dc948.css.map",
+    "main.e1890399.js.map": "/Rezo-client/static/js/main.e1890399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3dc948.css",
+    "static/js/main.e1890399.js"
+  ]
+}
